@@ -26,8 +26,8 @@ That’s why I decided to build **SonicSleuth**: a tool that helps me (and other
 
 ### 1. Clone & Backends
 ```bash
-git clone https://github.com/yourname/sonicscout.git
-cd sonicscout/backend
+git clone https://github.com/yourname/sonicsleuth.git
+cd sonicsleuth/backend
 python3 -m venv venv
 source venv/bin/activate
 pip install fastapi uvicorn google-api-python-client
